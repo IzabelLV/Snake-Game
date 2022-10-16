@@ -5,4 +5,5 @@ Interesting feature- when the snake eats the fruit it extends.
 
 Preview:
 
-![second](https://user-images.githubusercontent.com/100083184/196025535-462f3df3-3ed5-4fd4-97a9-7c7da6662fc5.png)
+![second](https://user-images.githubusercontent.com/100083184/196025635-19d5d279-ea63-4a45-bafb-02b235a0b8c3.png)
+
