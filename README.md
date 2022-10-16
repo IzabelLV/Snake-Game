@@ -1,7 +1,7 @@
 # Snake-Game
 The old classic snake game.
 
-Interesting feature- when the snake eats the fruit it extends.
+Interesting feature- when the snake eats a fruit it extends.
 
 Preview:
 
